@@ -25,10 +25,10 @@ I'm an Informatics (Computer Science) student at **International University of S
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkyarc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ricky's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkyarc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkyarc&show_icons=true&theme=radical" alt="Ricky's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkyarc&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</div>
 
 ---
 
