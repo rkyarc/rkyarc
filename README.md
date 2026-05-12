@@ -6,11 +6,11 @@ I'm an Informatics (Computer Science) student at **International University of S
 
 ### 🛠️ My Tech Stack
 
-**Frontend & Styling**
+**Frontend & Styling:**
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Database**
+**Backend & Database:**
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,8 +24,11 @@ I'm an Informatics (Computer Science) student at **International University of S
 ---
 
 ### 📊 GitHub Stats
-![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkyarc&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkyarc&layout=compact&theme=radical&hide_border=true)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkyarc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ricky's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkyarc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
