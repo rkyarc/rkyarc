@@ -7,31 +7,15 @@ I'm an Informatics (Computer Science) student at **International University of S
 ### 🛠️ My Tech Stack
 
 **Frontend & Styling:**
+<br>
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database:**
+<br>
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🚀 Highlight Projects
-
-* **[Animelistku](https://github.com/rkyarc/animelistku)** *My first fullstack exploration.* A web app to manage personal anime collections and comments using Next.js 15 and Prisma ORM.
-
----
-
-### 📊 GitHub Activities
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkyarc&theme=radical&hide_border=true" alt="Ricky's Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkyarc&theme=radical" alt="Ricky's Stats" />
-</p>
 
 ---
 
