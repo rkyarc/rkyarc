@@ -12,5 +12,5 @@ I love exploring web technologies and building cool projects.
 - [Animelistku](https://github.com/rkyarc/animelistku) - My first web project exploring Next.js and Prisma.
 
 ## 📫 How to reach me
-- LinkedIn: [https://www.linkedin.com/in/achmad-ricky-hariono-6215b2333/]
-- Instagram: @[https://www.instagram.com/rkyarc/]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-ricky-hariono-6215b2333/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rkyarc/)
