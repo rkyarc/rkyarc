@@ -23,12 +23,15 @@ I'm an Informatics (Computer Science) student at **International University of S
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activities
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkyarc&show_icons=true&theme=radical" alt="Ricky's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkyarc&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkyarc&theme=radical&hide_border=true" alt="Ricky's Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkyarc&theme=radical" alt="Ricky's Stats" />
+</p>
 
 ---
 
