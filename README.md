@@ -19,6 +19,14 @@ I'm an Informatics (Computer Science) student at **International University of S
 
 ---
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rkyarc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-ricky-hariono-6215b2333/)
