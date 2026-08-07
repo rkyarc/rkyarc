@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/achmad-ricky-hariono-6215b2333/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/rkyarc/" target="_blank">
+  <a href="https://www.instagram.com/arickyh/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
