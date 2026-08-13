@@ -29,6 +29,7 @@ Here are a few things I've built. I'm always looking to apply what I learn into 
 | Project Name | Description | Built With |
 | :--- | :--- | :--- |
 | **Animelistku** | A web application to browse, search, and track anime lists. Includes user authentication and database management. | `Next.js`, `Prisma`, `MySQL` |
+| **SIBEM** | Sistem Informasi Manajemen terpadu untuk mempermudah tata kelola administrasi, program kerja, dan evaluasi kegiatan BEM UISI. | `React`, `Vite`, `Tailwind CSS`, `Laravel`, `PostgreSQL`, `Docker` |
 
 *(Feel free to browse my repositories below to see more of my work!)*
 
@@ -39,7 +40,7 @@ Here are a few things I've built. I'm always looking to apply what I learn into 
 I'm always open to discussing web development, collaborating on projects, or just chatting about technology!
 
 <p align="left">
-  <a href="mailto:ricky@example.com">
+  <a href="mailto:arickyh1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/achmad-ricky-hariono-6215b2333/">
@@ -53,5 +54,5 @@ I'm always open to discussing web development, collaborating on projects, or jus
 <br>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Simplicity is the soul of efficiency." - Austin Freeman</i>
 </div>
