@@ -29,7 +29,7 @@ Here are a few things I've built. I'm always looking to apply what I learn into 
 | Project Name | Description | Built With |
 | :--- | :--- | :--- |
 | **Animelistku** | A web application to browse, search, and track anime lists. Includes user authentication and database management. | `Next.js`, `Prisma`, `MySQL` |
-| **SIBEM** | Sistem Informasi Manajemen terpadu untuk mempermudah tata kelola administrasi, program kerja, dan evaluasi kegiatan BEM UISI. | `React`, `Vite`, `Tailwind CSS`, `Laravel`, `PostgreSQL`, `Docker` |
+| **SIBEM** | An integrated Management Information System to facilitate the administration, work programs, and activity evaluation of BEM UISI. | `React`, `Vite`, `Tailwind CSS`, `Laravel`, `PostgreSQL`, `Docker` |
 
 *(Feel free to browse my repositories below to see more of my work!)*
 
