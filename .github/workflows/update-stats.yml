@@ -1,0 +1,33 @@
+name: Update Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download GitHub Stats SVG
+        run: |
+          mkdir -p dist
+          curl -o dist/github-stats.svg "https://awesome-github-stats.azurewebsites.net/user-stats/rkyarc?theme=radical"
+
+      - name: Download Streak Stats SVG
+        run: |
+          mkdir -p dist
+          curl -o dist/streak-stats.svg "https://streak-stats.demolab.com?user=rkyarc&theme=radical&hide_border=true"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dist/github-stats.svg dist/streak-stats.svg
+          git diff --cached --quiet || git commit -m "chore: update github stats and streak"
+          git push

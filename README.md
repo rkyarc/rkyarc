@@ -1,25 +1,57 @@
-# Hi, I'm Ricky! 👋
+<div align="center">
+  <h1>Hi there, I'm Ricky! 👋</h1>
+  <p>
+    <strong>Informatics Student | Web Developer | Tech Enthusiast</strong>
+  </p>
+  <p>
+    I'm an Informatics student at the <b>International University of Semen Indonesia (UISI)</b>. I have a strong passion for exploring web ecosystems, building modern functional projects, and continuously learning new technologies.
+  </p>
+</div>
 
-I'm an Informatics (Computer Science) student at **International University of Semen Indonesia (UISI)** and an active member of **HMIF** (Informatics Student Association). I'm a passionate self-learner who loves exploring web ecosystems and building functional, modern projects.
+<br>
+
+### 🛠️ Tech Stack & Tools
+
+A quick look at the technologies I use on a daily basis to build my projects:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,prisma,mysql,git,vscode&theme=dark" alt="My Tech Stack" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 Highlighted Projects
 
-**Frontend & Styling:**
-<br>
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Here are a few things I've built. I'm always looking to apply what I learn into real-world applications.
 
-**Backend & Database:**
-<br>
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| Project Name | Description | Built With |
+| :--- | :--- | :--- |
+| **Animelistku** | A web application to browse, search, and track anime lists. Includes user authentication and database management. | `Next.js`, `Prisma`, `MySQL` |
+
+*(Feel free to browse my repositories below to see more of my work!)*
 
 ---
 
-### 📫 How to reach me
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-ricky-hariono-6215b2333/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rkyarc/)
+I'm always open to discussing web development, collaborating on projects, or just chatting about technology!
+
+<p align="left">
+  <a href="mailto:ricky@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/achmad-ricky-hariono-6215b2333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rkyarc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
