@@ -10,13 +10,13 @@
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-A quick look at the technologies I use on a daily basis to build my projects:
+A quick look at the technologies I use on a daily basis to build projects and analyze data:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,prisma,mysql,git,vscode&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,nextjs,react,tailwind,nodejs,express,prisma,mysql,postgres&theme=dark&perline=6" alt="My Tech Stack" />
   </a>
 </p>
 
