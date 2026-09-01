@@ -15,8 +15,23 @@
 A quick look at the technologies I use on a daily basis to build projects and analyze data:
 
 <p align="left">
+  <strong>Frontend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,nextjs,react,tailwind,nodejs,express,prisma,mysql,postgres&theme=dark&perline=6" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend Stack" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>Backend & Programming:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" alt="Backend and Programming" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>Database & ORM:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma&theme=dark" alt="Database and ORM" />
   </a>
 </p>
 
